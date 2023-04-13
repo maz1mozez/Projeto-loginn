@@ -28,6 +28,7 @@ Telas grandes acima de 1200px.
 
     section#login{
         width: 80vw;
+        height: 280px;
         background-position: bottom bottom;
     }
     section#login > div#imagem{
@@ -50,6 +51,7 @@ Telas grandes acima de 1200px.
 
     section#login {
         width: 70vw;
+        height: 350;
         background-position: bottom;
     }
     section#login > div#imagem{
@@ -77,5 +79,6 @@ div#formulario > h1 {
 }
 
 div#formulario > p {
-    font-size: 0.8em;
+    font-size: 1em;
+    margin: 20px 0px;
 }
